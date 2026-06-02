@@ -13,66 +13,60 @@
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 
 ```python
 class GokulG:
     def __init__(self):
-        self.name         = "Gokul G"
-        self.username     = "Gokul711-dev"
-        self.location     = "Chikkamagaluru, Karnataka, India"
-        self.email        = "gokulg29.co@gmail.com"
-        self.degree       = "BCA — Kuvempu University (2022–2025)"
-
-        self.roles        = [
+        self.name = "Gokul G"
+        self.username = "Gokul711-dev"
+        self.location = "Chikkamagaluru, Karnataka, India"
+        self.email = "gokulg29.co@gmail.com"
+        self.degree = "BCA — Kuvempu University (2022–2025)"
+        
+        self.roles = [
             "SOC Analyst Aspirant",
             "Junior Pentester",
             "Security Researcher",
             "Ethical Hacker",
         ]
-
+        
         self.stack = {
-            "offensive":  ["Kali Linux","Metasploit","Burp Suite",
-                           "SQLmap","Hydra","Hashcat","Netcat"],
-            "recon":      ["Nmap","Wireshark","theHarvester","Subfinder"],
-            "web_sec":    ["OWASP Top 10","SQLi","XSS","LFI","SSRF",
-                           "IDOR","CSRF","File Upload Bypass"],
-            "frameworks": ["MITRE ATT&CK","CVSS 3.1","CVE Research",
-                           "PICERL IR","Pentest Methodology"],
-            "code":       ["Python","Bash","SQL","HTML/CSS",
-                           "PHP","JavaScript"],
-            "blue_team":  ["Splunk","Windows Event IDs","SIEM","Log Analysis"],
+            "offensive": ["Kali Linux","Metasploit","Burp Suite", "SQLmap","Hydra","Hashcat","Netcat"],
+            "recon": ["Nmap","Wireshark","theHarvester","Subfinder"],
+            "web_sec": ["OWASP Top 10","SQLi","XSS","LFI","SSRF", "IDOR","CSRF","File Upload Bypass"],
+            "frameworks": ["MITRE ATT&CK","CVSS 3.1","CVE Research", "PICERL IR","Pentest Methodology"],
+            "code": ["Python","Bash","SQL","HTML/CSS", "PHP","JavaScript"],
+            "blue_team": ["Splunk","Windows Event IDs","SIEM","Log Analysis"],
         }
-
+        
         self.currentlyLearning = [
             "Cisco Certified Ethical Hacker (10 modules + CTF)",
             "TryHackMe — Jr Pentester & SOC L1 Paths",
             "Splunk Core Certified User",
             "eJPT (next certification target)",
         ]
-
+        
         self.certifications = [
             "ISC2 CC — Certified in Cybersecurity (May 2026)",
             "TCM Security — Practical Ethical Hacking Parts 1 & 2",
             "Python Advanced & ML — Great Learning Academy",
         ]
-
+        
         self.lab = {
-            "vms":     ["Kali Linux (Attacker)","Metasploitable 2","DVWA"],
+            "vms": ["Kali Linux (Attacker)","Metasploitable 2","DVWA"],
             "attacks": 16,
-            "cves":    ["CVE-2011-2523","CVE-2007-2447","CVE-2010-2075"],
+            "cves": ["CVE-2011-2523","CVE-2007-2447","CVE-2010-2075"],
         }
 
     def funFact(self):
         return "I rooted Metasploitable 2 manually via Netcat — no Metasploit 🎯"
 
     def motto(self):
-        return "Break it to understand it. Document it to prove it." 
+        return "Break it to understand it. Document it to prove it."
 ```
-
 
 <br clear="right"/>
 
