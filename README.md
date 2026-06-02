@@ -18,6 +18,7 @@
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
+
 class GokulG:
     def __init__(self):
         self.name         = "Gokul G"
@@ -70,6 +71,7 @@ class GokulG:
 
     def motto(self):
         return "Break it to understand it. Document it to prove it."
+
 ```
 
 <br clear="right"/>
