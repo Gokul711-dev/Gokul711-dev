@@ -70,10 +70,8 @@ class GokulG:
         return "I rooted Metasploitable 2 manually via Netcat — no Metasploit 🎯"
 
     def motto(self):
-        return "Break it to understand it. Document it to prove it."
+        return "Break it to understand it. Document it to prove it." 
 ```
-
-
 
 <br clear="right"/>
 
