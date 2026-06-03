@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-<img align="center" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> 
+<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> 
 
 <table>
 <tr>
@@ -41,6 +41,7 @@
 </td>
 </tr>
 </table>
+
 
 ### 🛠️ My Security Stack
 
