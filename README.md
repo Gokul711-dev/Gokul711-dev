@@ -13,7 +13,7 @@
 
 ---
 
-👨‍💻 About Me
+### 👨‍💻 About Me
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> 
 
@@ -70,7 +70,7 @@ text
 | **Python Advanced & ML** | Great Learning Academy | ✅ Completed |
 | **Cisco Certified Ethical Hacker** | Cisco | 🔄 In Progress |
 
-<div align="center">
+
 
 ### 🖥️ Home Lab Summary
 
