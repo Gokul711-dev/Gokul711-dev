@@ -3,7 +3,8 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=%F0%9F%94%90+ISC2+Certified+in+Cybersecurity+%7C+CC;%F0%9F%92%BB+16+CVE+Exploits+Documented+in+Home+Lab;%F0%9F%8E%AF+Kali+Linux+%7C+Metasploit+%7C+Burp+Suite+%7C+Nmap;%F0%9F%9A%80+Targeting+SOC+Analyst+%26+Junior+Pentester+Roles)](https://git.io/typing-svg)
-
+</div>
+<div align="left">
 [![Profile Views](https://komarev.com/ghpvc/?username=Gokul711-dev&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Gokul711-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gokul%20G-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gokul-g-7ak2529)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-gokulg07.co-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/gokulg07.co)
