@@ -17,56 +17,94 @@
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> 
 
-```python
-class GokulG:
-    def __init__(self):
-        self.name = "Gokul G"
-        self.username = "Gokul711-dev"
-        self.location = "Chikkamagaluru, Karnataka, India"
-        self.email = "gokulg29.co@gmail.com"
-        self.degree = "BCA — Kuvempu University (2022–2025)"
-        
-        self.roles = [
-            "SOC Analyst Aspirant",
-            "Junior Pentester",
-            "Security Researcher",
-            "Ethical Hacker",
-        ]
-        
-        self.stack = {
-            "offensive": ["Kali Linux","Metasploit","Burp Suite", "SQLmap","Hydra","Hashcat","Netcat"],
-            "recon": ["Nmap","Wireshark","theHarvester","Subfinder"],
-            "web_sec": ["OWASP Top 10","SQLi","XSS","LFI","SSRF", "IDOR","CSRF","File Upload Bypass"],
-            "frameworks": ["MITRE ATT&CK","CVSS 3.1","CVE Research", "PICERL IR","Pentest Methodology"],
-            "code": ["Python","Bash","SQL","HTML/CSS", "PHP","JavaScript"],
-            "blue_team": ["Splunk","Windows Event IDs","SIEM","Log Analysis"],
-        }
-        
-        self.currentlyLearning = [
-            "Cisco Certified Ethical Hacker (10 modules + CTF)",
-            "TryHackMe — Jr Pentester & SOC L1 Paths",
-            "Splunk Core Certified User",
-            "eJPT (next certification target)",
-        ]
-        
-        self.certifications = [
-            "ISC2 CC — Certified in Cybersecurity (May 2026)",
-            "TCM Security — Practical Ethical Hacking Parts 1 & 2",
-            "Python Advanced & ML — Great Learning Academy",
-        ]
-        
-        self.lab = {
-            "vms": ["Kali Linux (Attacker)","Metasploitable 2","DVWA"],
-            "attacks": 16,
-            "cves": ["CVE-2011-2523","CVE-2007-2447","CVE-2010-2075"],
-        }
+<table>
+<tr>
+<td>
 
-    def funFact(self):
-        return "I rooted Metasploitable 2 manually via Netcat — no Metasploit 🎯"
+**👤 Personal**
 
-    def motto(self):
-        return "Break it to understand it. Document it to prove it."
-```
+- **Name:** Gokul G
+- **Location:** Chikkamagaluru, Karnataka, India
+- **Degree:** BCA — AIBM-CKM (2022–2025)
+- **Email:** ahi.krishna25@gmail.com
+
+</td>
+<td>
+
+**🎯 Target Roles**
+
+- SOC Analyst Aspirant
+- Junior Pentester
+- Security Researcher
+- Ethical Hacker
+
+</td>
+</tr>
+</table>
+
+### 🛠️ My Security Stack
+
+| Category | Tools & Technologies |
+|:---|:---|
+| **Offensive Security** | Kali Linux, Metasploit, Burp Suite, SQLmap, Hydra, Hashcat, Netcat |
+| **Reconnaissance** | Nmap, Wireshark, theHarvester, Subfinder |
+| **Web Security** | OWASP Top 10, SQLi, XSS, LFI, SSRF, IDOR, CSRF, File Upload Bypass |
+| **Frameworks** | MITRE ATT&CK, CVSS 3.1, CVE Research, PICERL IR, Pentest Methodology |
+| **Programming** | Python, Bash, SQL, HTML/CSS, PHP, JavaScript |
+| **Blue Team** | Splunk (Learning), Windows Event IDs, SIEM, Log Analysis |
+
+### 📚 Currently Learning
+🔐 Cisco Certified Ethical Hacker (10 modules + CTF challenges)
+🏹 TryHackMe — Jr Pentester & SOC L1 Paths
+📊 Splunk Core Certified User
+🎯 eJPT — Next certification target
+
+text
+
+### 🏅 Certifications
+
+| Certification | Issuer | Status |
+|:---|:---|:---|
+| **ISC2 CC — Certified in Cybersecurity** | ISC2 | ✅ Earned (May 2026) |
+| **Practical Ethical Hacking Parts 1 & 2** | TCM Security | ✅ Completed |
+| **Python Advanced & ML** | Great Learning Academy | ✅ Completed |
+| **Cisco Certified Ethical Hacker** | Cisco | 🔄 In Progress |
+
+<div align="center">
+
+### 🖥️ Home Lab Summary
+
+| Component | Details |
+|:---|:---|
+| **VMs** | Kali Linux (192.168.56.101) · Metasploitable 2 (192.168.56.102) · DVWA (192.168.56.103) |
+| **Network** | VirtualBox Host-Only — Isolated, no internet |
+| **Total Attacks** | 16 (10 Network + 8 Web) |
+
+**🔴 Critical CVSS 10.0**
+![CVE-2011-2523](https://img.shields.io/badge/CVE--2011--2523-Critical-red)
+![CVE-2007-2447](https://img.shields.io/badge/CVE--2007--2447-Critical-red)
+
+**🟡 Web Attacks**
+![SQLi](https://img.shields.io/badge/SQL_Injection-Exploited-brightgreen)
+![XSS](https://img.shields.io/badge/Stored_XSS-Cookie_Theft-brightgreen)
+![LFI](https://img.shields.io/badge/LFI→RCE-Log_Poisoning-brightgreen)
+
+**🔧 Tools**
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596BE)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633)
+
+</div>
+
+
+### 🧠 Fun Fact
+
+> *"I rooted Metasploitable 2 manually via Netcat — no Metasploit framework. 🎯"*
+
+### 📢 My Motto
+
+> *"Break it to understand it. Document it to prove it."*
+
 
 <br clear="right"/>
 
@@ -166,7 +204,7 @@ class GokulG:
 ## 💼 Work Experience
 
 <details>
-<summary><b>🏢 Debt Recovery Agent — Allcreds Solutions Pvt Ltd (PayRupik) &nbsp;|&nbsp; Sep 2025 – Dec 2025 &nbsp;|&nbsp; Chikkamagaluru, KA</b></summary>
+<summary><b>🏢 Debt Recovery Agent — Allcreds Solutions Pvt Ltd &nbsp;|&nbsp; Sep 2025 – Dec 2025 &nbsp;|&nbsp; Chikkamagaluru, KA</b></summary>
 
 <br/>
 
@@ -291,7 +329,7 @@ class GokulG:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gokul-g-7ak2529)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gokul711-dev)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/gokulg07.co)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulg29.co@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahi.krishna25@gmail.com)
 
 ### 💬 Ask Me About
 
