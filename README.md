@@ -240,8 +240,8 @@ text
 
 | 🚀 Project | ⚙️ Stack | 🎯 Highlights |
 |:---:|:---:|:---|
-| [**🛡️ Penetration Testing Home Lab**](https://github.com/Gokul711-dev) | `Kali Linux` `Metasploit` `Burp Suite` `DVWA` `VirtualBox` | **16 CVE exploits** documented · 3-VM isolated network · CVSS 3.1 + MITRE ATT&CK mapped · vsftpd CVE-2011-2523, Samba CVE-2007-2447, UnrealIRCd CVE-2010-2075 · 8 DVWA web attacks (SQLi, XSS, LFI→RCE, CSRF, File Upload bypass) |
-| [**🐍 Python Security Tools**](https://github.com/Gokul711-dev) | `Python` `Sockets` `Threading` `Argparse` | Multi-threaded **port scanner** (65,535 ports < 60s) · **Subdomain enumerator** with concurrent DNS · **Hash identifier** + Hashcat wrapper (MD5/NTLM/bcrypt) |
+| [**🛡️ Penetration Testing Home Lab**](https://github.com/Gokul711-dev/Cybersecurity-Home-Lab) | `Kali Linux` `Metasploit` `Burp Suite` `DVWA` `VirtualBox` | **16 CVE exploits** documented · 3-VM isolated network · CVSS 3.1 + MITRE ATT&CK mapped · vsftpd CVE-2011-2523, Samba CVE-2007-2447, UnrealIRCd CVE-2010-2075 · 8 DVWA web attacks (SQLi, XSS, LFI→RCE, CSRF, File Upload bypass) |
+| [**🐍 Python Security Tools**](https://github.com/Gokul711-dev/Python_Security_Tools) | `Python` `Sockets` `Threading` `Argparse` | Multi-threaded **port scanner** (65,535 ports < 60s) · **Subdomain enumerator** with concurrent DNS · **Hash identifier** + Hashcat wrapper (MD5/NTLM/bcrypt) |
 | [**🫁 Pneumonia Detection — Deep Learning**](https://github.com/Gokul711-dev) | `Python` `CNN` `Flask` `FastAPI` `scikit-learn` | **93% accuracy** chest X-ray classifier · Kaggle dataset · Full stack: model → REST API → web interface · BCA final year project |
 
 </div>
