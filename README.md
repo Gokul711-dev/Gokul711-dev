@@ -296,3 +296,61 @@ text
 ---
 
 ## 🌱 Currently Learning
+🔐 Cisco Certified Ethical Hacker
+→ 10 modules + CTF challenges (Cisco Networking Academy)
+→ Credly badge on completion
+
+🏹 TryHackMe Learning Paths
+→ Jr Pentester Path (active)
+→ SOC Level 1 Path (active)
+
+📊 Splunk Core Certified User
+→ Splunk Fundamentals 1 (free training)
+→ SPL queries, dashboards, detection rules
+
+🎯 eJPT — eLearnSecurity Junior Pentester
+→ Next certification target ($200 practical exam)
+→ Building toward: PNPT → OSCP
+
+🔵 Blue Team Skills
+→ Windows Event IDs (4624, 4625, 4648, 4698, 7045, 1102...)
+→ SIEM operations, incident response, threat hunting
+
+🐛 Bug Bounty Hunting
+→ Starting on Bugcrowd public programmes
+→ OWASP Top 10 methodology, Burp Suite proficiency
+
+---
+
+## 🗺️ Career Roadmap
+✅ 2025 — BCA Graduated | Python AIML Intern
+✅ 2026 — ISC2 CC Earned | TCM Security Parts 1 & 2 | Home Lab: 16 CVE Exploits
+🔄 Now — Cisco Ethical Hacker | TryHackMe Paths | Splunk Training | Freelance Web Studio
+🎯 Q3 2026 — Cisco EH Complete | First SOC/Pentest Job | Splunk Core User
+🏅 Q4 2026 — eJPT Certification
+🚀 2027 — PNPT (TCM) | Active Bug Bounty
+⭐ 2028 — OSCP | Mid-level Pentester / SOC Tier 2
+
+---
+
+<div align="center">
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gokul-g-7ak2024)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gokul711-dev)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/gokulg07.co)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahi.krishna25@gmail.com)
+
+### 💬 Ask Me About
+
+`Penetration Testing` `CVE Exploitation` `OWASP Top 10` `Burp Suite` `Metasploit`
+`Python Scripting` `SOC Operations` `MITRE ATT&CK` `Vulnerability Assessment` `ISC2 CC`
+
+---
+
+*"Break it to understand it. Document it to prove it."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
