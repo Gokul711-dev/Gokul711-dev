@@ -24,7 +24,7 @@
 **👤 Personal**
 
 - **Name:** Gokul G
-- **Location:** Chikkamagaluru, Karnataka, India
+- **Location:** Bangalore, Karnataka, India
 - **Degree:** BCA — AIBM-CKM (2022–2025)
 - **Email:** ahi.krishna25@gmail.com
 
@@ -52,6 +52,9 @@
 | **Web Security** | OWASP Top 10, SQLi, XSS, LFI, SSRF, IDOR, CSRF, File Upload Bypass |
 | **Frameworks** | MITRE ATT&CK, CVSS 3.1, CVE Research, PICERL IR, Pentest Methodology |
 | **Programming** | Python, Bash, SQL, HTML/CSS, PHP, JavaScript |
+| **Web Development** | Responsive design, Vercel & Netlify deployment, Git & GitHub |
+| **UI/UX & Design** | Figma (incl. Figma Make), Adobe XD, Penpot, Photoshop, Illustrator, Canva, wireframes, prototypes, design systems |
+| **Video Editing** | DaVinci Resolve, CapCut |
 | **Blue Team** | Splunk (Learning), Windows Event IDs, SIEM, Log Analysis |
 
 ### 📚 Currently Learning
@@ -69,6 +72,8 @@ text
 | **ISC2 CC — Certified in Cybersecurity** | ISC2 | ✅ Earned (May 2026) |
 | **Practical Ethical Hacking Parts 1 & 2** | TCM Security | ✅ Completed |
 | **Python Advanced & ML** | Great Learning Academy | ✅ Completed |
+| **Data Science in Python** | Great Learning Academy | ✅ Completed |
+| **Front-End Web Development** | Great Learning Academy | ✅ Completed |
 | **Cisco Certified Ethical Hacker** | Cisco | 🔄 In Progress |
 
 
@@ -151,9 +156,15 @@ text
 **Design & Data**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Figma Make](https://img.shields.io/badge/Figma%20Make-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![Penpot](https://img.shields.io/badge/Penpot-31EFB8?style=flat-square&logo=penpot&logoColor=black)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
 
 ---
 
@@ -184,6 +195,31 @@ text
 </details>
 
 <details>
+<summary><b>🎨 Freelance Web Designer, Developer & Video Editor — Ahi Seven Studio &nbsp;|&nbsp; Remote &nbsp;|&nbsp; Feb 2026 – Present</b></summary>
+
+<br/>
+
+> `HTML/CSS/JS` `Figma` `Adobe XD` `Vercel` `Netlify` `DaVinci Resolve` `CapCut`
+
+- 🌐 Designed and built responsive websites and admin dashboards, taking each from Figma or Adobe XD prototype to live deployment on Vercel or Netlify
+- 🧩 Built UI/UX case studies from problem framing to interactive prototypes and presented them for stakeholder feedback
+- 🎬 Edited and color-graded video in DaVinci Resolve and produced short-form content in CapCut for YouTube, Reels and TikTok
+
+</details>
+
+<details>
+<summary><b>🤝 Operations & Client Coordinator — Family Business &nbsp;|&nbsp; Karnataka &nbsp;|&nbsp; June 2026 – Present</b></summary>
+
+<br/>
+
+> `Client Communication` `Onsite/Offsite Coordination` `Issue Resolution`
+
+- 🗂️ Coordinated work across onsite and offsite locations
+- 💬 Acted as the main customer contact — understanding requirements, sharing updates and resolving issues
+
+</details>
+
+<details>
 <summary><b>🐍 Python AIML Intern — Net2Next Technologies &nbsp;|&nbsp; Feb 2025 – Mar 2025 &nbsp;|&nbsp; Chikkamagaluru, KA</b></summary>
 
 <br/>
@@ -208,6 +244,21 @@ text
 | [**🛡️ Penetration Testing Home Lab**](https://github.com/Gokul711-dev/Cybersecurity-Home-Lab) | `Kali Linux` `Metasploit` `Burp Suite` `DVWA` `VirtualBox` | **16 CVE exploits** documented · 3-VM isolated network · CVSS 3.1 + MITRE ATT&CK mapped · vsftpd CVE-2011-2523, Samba CVE-2007-2447, UnrealIRCd CVE-2010-2075 · 8 DVWA web attacks (SQLi, XSS, LFI→RCE, CSRF, File Upload bypass) |
 | [**🐍 Python Security Tools**](https://github.com/Gokul711-dev/Python_Security_Tools) | `Python` `Sockets` `Threading` `Argparse` | Multi-threaded **port scanner** (65,535 ports < 60s) · **Subdomain enumerator** with concurrent DNS · **Hash identifier** + Hashcat wrapper (MD5/NTLM/bcrypt) |
 | [**🫁 Pneumonia Detection — Deep Learning**](https://github.com/Gokul711-dev) | `Python` `CNN` `Flask` `FastAPI` `scikit-learn` | **93% accuracy** chest X-ray classifier · Kaggle dataset · Full stack: model → REST API → web interface · BCA final year project |
+
+</div>
+
+### 🎨 Design & Web Projects
+
+<div align="center">
+
+| 🚀 Project | ⚙️ Stack | 🎯 Highlights |
+|:---:|:---:|:---|
+| [**Ahi Seven Studio Website**](https://ahidesignart7.vercel.app) | `HTML` `CSS` `JS` `Vercel` | Responsive studio site with services, featured case studies, contact section |
+| [**Designer Portfolio**](https://ahisevenstudio.netlify.app) | `HTML` `CSS` `JS` `Netlify` | UI/UX portfolio with six case studies and a four-step design process section |
+| [**DesignersHub**](https://designer-hub-ahi.vercel.app) | `Multi-page site` | Learning hub for designers: UI/UX, design systems, brand identity, tools, cheatsheets, learning paths, blog, community |
+| [**Aakrish.ai Techno Planner**](https://aakrish-techno-planner.netlify.app) | `HTML` `CSS` `JS` | Interactive planning dashboard with live sliders, INR/USD/AED view, MRR, gross margin, LTV:CAC, 12-month forecast, 15-product catalog, English/Kannada overlay |
+| [**Figma Make AI Analytics Dashboard**](https://behance.net/gallery/243661815) | `Figma Make` | Dark-mode analytics admin dashboard documented as a Behance case study |
+| [**A.H.I. (Jane OS) — Local AI Assistant**](https://github.com/Gokul711-dev) | `Python` `Ollama` `ChromaDB` | Privacy-first local AI assistant with multi-model routing (Llama 3.1, Qwen2.5-Coder), tool calling, RAG, memory, orchestrator agent loop with approval gates |
 
 </div>
 
@@ -245,67 +296,3 @@ text
 ---
 
 ## 🌱 Currently Learning
-
-```
-🔐 Cisco Certified Ethical Hacker
-   → 10 modules + CTF challenges (Cisco Networking Academy)
-   → Credly badge on completion
-
-🏹 TryHackMe Learning Paths
-   → Jr Pentester Path  (active)
-   → SOC Level 1 Path   (active)
-
-📊 Splunk Core Certified User
-   → Splunk Fundamentals 1 (free training)
-   → SPL queries, dashboards, detection rules
-
-🎯 eJPT — eLearnSecurity Junior Pentester
-   → Next certification target ($200 practical exam)
-   → Building toward: PNPT → OSCP
-
-🔵 Blue Team Skills
-   → Windows Event IDs (4624, 4625, 4648, 4698, 7045, 1102...)
-   → SIEM operations, incident response, threat hunting
-
-🐛 Bug Bounty Hunting
-   → Starting on Bugcrowd public programmes
-   → OWASP Top 10 methodology, Burp Suite proficiency
-```
-
----
-
-## 🗺️ Career Roadmap
-
-```
-✅ 2025 — BCA Graduated  |  Python AIML Intern
-✅ 2026 — ISC2 CC Earned  |  TCM Security Parts 1 & 2  |  Home Lab: 16 CVE Exploits
-🔄 Now  — Cisco Ethical Hacker  |  TryHackMe Paths  |  Splunk Training
-🎯 Q3 2026 — Cisco EH Complete  |  First SOC/Pentest Job  |  Splunk Core User
-🏅 Q4 2026 — eJPT Certification
-🚀 2027   — PNPT (TCM)  |  Active Bug Bounty
-⭐ 2028   — OSCP  |  Mid-level Pentester / SOC Tier 2
-```
-
----
-
-<div align="center">
-
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gokul-g-7ak2004)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gokul711-dev)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/gokulg07.co)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahi.krishna25@gmail.com)
-
-### 💬 Ask Me About
-
-`Penetration Testing` `CVE Exploitation` `OWASP Top 10` `Burp Suite` `Metasploit`
-`Python Scripting` `SOC Operations` `MITRE ATT&CK` `Vulnerability Assessment` `ISC2 CC`
-
----
-
-*"Break it to understand it. Document it to prove it."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
